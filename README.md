@@ -23,7 +23,7 @@ Ensure you have the following installed:
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/predicting-temperature.git
+   git clone https://github.com/utsab345/predicting-temperature.git
    cd predicting-temperature
 2. Open the Jupyter Notebook
    ```bash
